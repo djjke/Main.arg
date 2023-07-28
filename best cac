@@ -1,0 +1,24 @@
+First = input("First:")
+Second = input("Second")
+
+ans = int(First) + int(Second)
+
+print(ans)
+
+a = input("----------A for sub") 
+if a <= ("A"):
+    first = input("first:")
+    second = input("second:")
+    ans_2 = int(first) - int(second)
+    print(ans_2)
+    
+b = input("-B for x")
+if b  >= ("B"):
+     first = input("first:")
+     second = input("second")
+     ans_3 = int(first) * int(second)
+     print(ans_3)
+
+
+
+    
